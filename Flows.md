@@ -1,6 +1,6 @@
 ## Flows: Intersections!
 
-Flows specifically refer to the direction of travel of each facility type. The _Direction_ of travel is a required parameter where there can be multiple flows per facility type. At an intersection, the _Direction_ includes the initial direction of travel and the final direction of travel (e.g. "E, N", "E, E", "E, S").
+Flows specifically refer to the direction of travel of each facility type. The _Direction_ of travel is a required parameter where there can be multiple flows per facility type. At an intersection, the _Direction_ includes the initial direction of travel and the final direction of travel (e.g. "E, N", "E, E", "E, S"). If the direction inital or final direction of travel is unknown (e.g. automated counter, scramble-type crossing), or the flow is an aggregate of all flow directions within a _Segment_Area_ for counts associated with bicyclist wearing helmets, gender of user, etc. the direction should be set to "undefined".
 
 Additional characteristics of _Flow_ include:
 * bicycle
