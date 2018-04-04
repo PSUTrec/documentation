@@ -35,4 +35,4 @@ The outline below shows current sections in progress.
 
 
 ## References
-### Parameter Definitions
+### [Parameter Definitions](https://github.com/PSUTrec/documentation/blob/master/documents/paramenter-definitions.md)
