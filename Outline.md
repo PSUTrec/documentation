@@ -14,10 +14,10 @@
 
 ## Tutorial and Examples for Uploading Data into BikePed Portal
 
-### [Summary]()
+### [Summary](https://github.com/PSUTrec/documentation/blob/master/tutorial-examples-summary.md)
 
 ### Metadata
-* Segment Area
+* [Segment Area](https://github.com/PSUTrec/documentation/blob/master/Segment-Areas.md)
 * Facilities
 * Flows
 * Detectors

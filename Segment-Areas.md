@@ -1,4 +1,4 @@
-## Segment Area
+### Segment Area
 
 _Segment Areas_ are uniquely defined (and required) by parameters _Segment Area Name_, _Functional Classification_, _State_, and _County_.
 
