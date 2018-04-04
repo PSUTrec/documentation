@@ -16,20 +16,19 @@ The outline below shows current sections in progress.
 
 ## Tutorial and Examples for Uploading Data into BikePed Portal
 
-### [Summary](https://github.com/PSUTrec/documentation/blob/master/tutorial-examples-summary.md)
+### [Summary](https://github.com/PSUTrec/documentation/blob/master/documents/tutorial-examples-summary.md)
 
 ### Metadata
-* [Segment Area](https://github.com/PSUTrec/documentation/blob/master/Segment-Areas.md)
-* Facilities
-* Flows
-* Detectors
-* Flow Detectors
+* [Segment Area](https://github.com/PSUTrec/documentation/blob/master/documents/Segment-Areas.md)
+* [Facilities](https://github.com/PSUTrec/documentation/blob/master/documents/Facilities.md)
+* [Flows](https://github.com/PSUTrec/documentation/blob/master/documents/Flows.md)
+* [Detectors](https://github.com/PSUTrec/documentation/blob/master/documents/Detectors.md)
+* [Flow Detectors](https://github.com/PSUTrec/documentation/blob/master/documents/Flow-Detector.md)
 * Bulk Upload
 
 ### Data
 * Automated Counters
-* Manual Counts
-* Bulk Upload
+* [Manual Counts and Bulk Upload](https://github.com/PSUTrec/documentation/blob/master/documents/Data.md)
 
 ## Tutorial and Examples of Using BikePed Portal
 ### Summary
