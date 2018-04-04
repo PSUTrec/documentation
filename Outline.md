@@ -1,12 +1,21 @@
 # BikePed Portal
+
 # Table of Contents
+
 ## Preface
+
 ### Purpose
+
 ### Background
+
 ### Summary
+
 ### Further Information
-## Tutorial and Examples
-### Summary
+
+## Tutorial and Examples for Uploading Data into BikePed Portal
+
+### [Summary]()
+
 ### Metadata
 * Segment Area
 * Facilities
@@ -16,9 +25,13 @@
 * Bulk Upload
 
 ### Data
-* Automated counters
-* Acceptable file formats
+* Automated Counters
+* Manual Counts
 * Bulk Upload
+
+## Tutorial and Examples of Using BikePed Portal
+### Summary
+
 
 ## References
 ### Parameter Definitions
