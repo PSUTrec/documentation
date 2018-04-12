@@ -6,7 +6,7 @@ The following tutorial and examples section describes metadata and data requirem
 Prior to uploading any count data into BikePed Portal, metadata of any type of count data must be created. Figure X shows the general relationship of required metadata parameters and data parameters.
 
 <figure align = "center">
-<img src="images/metadata_data_relationship.png" width="700">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/metadata_data_relationship.png" width="700">
 <figcaption>Figure X. Example representation of data required for sharing and available in BikePed Portal.</figcaption>
 </figure>
 
