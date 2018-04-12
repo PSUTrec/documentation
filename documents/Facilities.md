@@ -43,6 +43,6 @@ The "14th St & Folsom St" _Segment Area_ has four potential facility types:
 Other characteristics associated with facilities should be included when applicable (e.g. sharrows along 14th St east of Folsom St) because these additional types of characteristics often change over time.
 
 <figure align = "center">
-<img src="images/FolsomSt&14thSt.jpg" width="700">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/FolsomSt%2614thSt.jpg" width="700">
 <figcaption>Fig 4. Intersection of Folsom St and 14th St, San Francisco, California.</figcaption>
 </figure>

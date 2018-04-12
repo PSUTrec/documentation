@@ -18,6 +18,6 @@ Additional optional attributes associated with _Flow Detector_ are:
 If bicyclists are being manually counted at the intersection of 14th St and Folsom, there are ten potential flow detectors (Figure 6). Flow detector locations were approximated on Google Earth where each detector location represents where a bicyclist might be located from initial travel direction (e.g. Flow Detector 1 is located where a bicyclist traveling eastbound on 14th St might turn right onto southbound Folsom St.)
 
 <figure align = "center">
-<img src="images/flowdetectors.jpg" width="700">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/flowdetectors.jpg" width="700">
 <figcaption>Fig 6. Intersection of Folsom St and 14th St, San Francisco, California, showing 10 possible flow detectors.</figcaption>
 </figure>

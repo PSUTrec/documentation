@@ -16,7 +16,7 @@ These types of flows are not mutually exclusive and allow flexibility for choosi
 Bicyclists traveling eastbound in a bike line on 14th St have an option to travel in three directions at the intersection with Folsom St (Figure 5).
 
 <figure align = "center">
-<img src="images/14thSt&FolsomSt_flow.png" width="700">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/14thSt%26FolsomSt_flow.png" width="700">
 <figcaption>Fig 5. Intersection of Folsom St and 14th St, San Francisco, California, showing three possible travel _directions_ from eastbound 14th St.</figcaption>
 </figure>
 
