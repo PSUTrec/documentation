@@ -13,7 +13,7 @@ The name of the segment should start with the road name from where the count ori
 There are two _Segment Areas_ at the intersection of 17th St and Valencia St. If bicyclists are being counted on Valencia St either continuing travel on Valencia St or turning onto 17th St. The _Segment Area Name_ would be "Valencia St & 17th St" (Fig. 1). If bicyclists are being counted on 17th St and are either continuing to travel on 17th St or turning onto Valencia St, the _Segment Area Name_ would be "17th St & Valencia St".
 
 <figure align = "center">
-<img src="images/17thSt&ValenciaSt_fig1.png" width="500">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/17thSt%26ValenciaSt_fig1.png" width="500">
 <figcaption>Fig 1. 17th St & Valencia St, San Francisco, California.</figcaption>
 </figure>  
 
@@ -21,7 +21,7 @@ There are two _Segment Areas_ at the intersection of 17th St and Valencia St. If
 There are three _Segment Areas_ at the intersection of Circle Blvd and Kings Blvd because the _Functional Classification_ of Circle Blvd changes from "Minor Collector" to "Minor Arterial" (Fig. 2).
 
 <figure align="center">
-<img src="images/CircleBlvd&KingsBlvd_fig2.png" width="500">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/CircleBlvd%26KingsBlvd_fig2.png" width="500">
 <figcaption>Fig 2. Circle Blvd & Kings Blvd, Corvallis, Oregon. The highlighted blue area represents "Minor Arterial" and the highlighted purple area represents "Major Collector".</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ Where, "Circle Blvd - W & Kings Blvd" refers to Circle Blvd with the _Functional
 There are 12 _Segment Areas_ where 8th St, Townsend St, Division St, and Henry Adams St intersect around a roundabout. Division St and Townsend St are both "Major Collectors", 8th St is a "Minor Arterial", and Henry Adams St is a "Local" road (Fig. 3)
 
 <figure align="center">
-<img src="images/8thSt&TownsendSt_fig3.png" width="500">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/8thSt%26TownsendSt_fig3.png" width="500">
 <figcaption>Fig 3. A five way roundabout in San Francisco, California. The highlighted blue area represents "Minor Arterial", the highlighted purple area represents "Major Collector", and the highlighted gray area represents "Local" functional classes.</figcaption>
 </figure>
 
