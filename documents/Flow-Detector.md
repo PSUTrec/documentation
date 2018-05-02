@@ -19,12 +19,13 @@ Additional optional attributes associated with _Flow Detector_ are:
 ### Example
 
 #### Intersections
-If bicyclists are being manually counted at the intersection of 14th St and Folsom, there are ten potential flow detectors (Figure 6) to represent the different possible flows. Similar to linear segment areas, flow detectors that share the same initial flow direction can share the same flow detector location (e.g. Flow Detectors 1-3 can have the same latitude and longitude).
+If bicyclists are being manually counted at the intersection of 14th St and Folsom St, there are nine potential flows (represented by arrows in Figure 6) which will result in nine _Flow Detectors_. _Flow Detectors_ that share the same initial flow direction can share the same flow detector location. For example, Detector A has the same location information for the three different possible flows. Each of those three different _Flows_ combined with the same geographical information for Detector A will create three different _Flow Detectors_.
 
 <figure align = "center">
-<img src="https://github.com/PSUTrec/documentation/blob/master/images/flowdetectors.jpg" width="700">
+<img src="https://github.com/PSUTrec/documentation/blob/master/images/flowdetectors-2.png" width="700">
 <figcaption>Fig 6. Intersection of Folsom St and 14th St, San Francisco, California, showing four possible flow detectors.</figcaption>
 </figure>
+
 
 
 

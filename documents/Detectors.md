@@ -17,3 +17,7 @@ Optional parameters are:
 If counts are detected by an automated counter, the Serial Number, Make, and Model should be recorded in the event the automated counter is re-used for a different flow, facility, or segment area; and to monitor the functional status of the counter.
 
 If counts are manually recorded then the Make or Model field should be filled with "Manual".
+
+
+
+[Back to Table of Contents](https://github.com/PSUTrec/documentation)
