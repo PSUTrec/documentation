@@ -6,7 +6,9 @@ The flow detector links the _Detector_ information with _Flow_. The required par
 
 Latitude and longitude values are in decimal degrees with projection coordinates of WGS84 datum.
 
-If a GPS unit is not available to determine the location of a flow detector use Google Earth to determine an approximate location. In most cases, there is one flow detector associated with one flow; however, multiple flow detectors can be associated with one flow when automated counters are changed, or comparisons among different types of detectors are being tested.
+If a GPS unit is not available to record the location of a flow detector use Google Earth to determine an approximate location. A _Flow Detector_ is unique based on the combination of the _Detector_, the _Flow_, and the location (latitude and longitude). A single location can have multiple _Flow Detectors_ (multiple _Flow Detectors_ can be co-located).
+
+A
 
 Additional optional attributes associated with _Flow Detector_ are:
 
@@ -15,9 +17,15 @@ Additional optional attributes associated with _Flow Detector_ are:
 * eco channel ID
 
 ### Example
-If bicyclists are being manually counted at the intersection of 14th St and Folsom, there are ten potential flow detectors (Figure 6). Flow detector locations were approximated on Google Earth where each detector location represents where a bicyclist might be located from initial travel direction (e.g. Flow Detector 1 is located where a bicyclist traveling eastbound on 14th St might turn right onto southbound Folsom St.)
+
+#### Intersections
+If bicyclists are being manually counted at the intersection of 14th St and Folsom, there are ten potential flow detectors (Figure 6) to represent the different possible flows. Similar to linear segment areas, flow detectors that share the same initial flow direction can share the same flow detector location (e.g. Flow Detectors 1-3 can have the same latitude and longitude).
 
 <figure align = "center">
 <img src="https://github.com/PSUTrec/documentation/blob/master/images/flowdetectors.jpg" width="700">
-<figcaption>Fig 6. Intersection of Folsom St and 14th St, San Francisco, California, showing 10 possible flow detectors.</figcaption>
+<figcaption>Fig 6. Intersection of Folsom St and 14th St, San Francisco, California, showing four possible flow detectors.</figcaption>
 </figure>
+
+
+
+[Back to Table of Contents](https://github.com/PSUTrec/documentation)
