@@ -1,4 +1,4 @@
-## Facilities: Intersections!
+## Facilities
 
 For each unique segment area there can be multiple facility types within a given _Segment Area_ (e.g. roadway and sidewalk). Required parameters for _Facilities_ include _Facility Type_ and a brief _Description_. In addition, facilities can change over time (e.g. a roadway one year turns into a bike lane the next year). A new _Facility Type_ must be created each time it changes. _Facility Types_ included are:
 
