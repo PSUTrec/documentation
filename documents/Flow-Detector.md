@@ -8,8 +8,6 @@ Latitude and longitude values are in decimal degrees with projection coordinates
 
 If a GPS unit is not available to record the location of a flow detector use Google Earth to determine an approximate location. A _Flow Detector_ is unique based on the combination of the _Detector_, the _Flow_, and the location (latitude and longitude). A single location can have multiple _Flow Detectors_ (multiple _Flow Detectors_ can be co-located).
 
-A
-
 Additional optional attributes associated with _Flow Detector_ are:
 
 * start date
