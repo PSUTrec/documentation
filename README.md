@@ -6,11 +6,9 @@ The outline below shows current sections in progress.
 
 ## Preface
 
-### Purpose
+### About BikePed Portal
 
-### Background
-
-### Summary
+### How to use this Guide
 
 ### Further Information
 
