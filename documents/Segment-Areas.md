@@ -44,12 +44,10 @@ There are three _Segment Areas_ at the intersection of Circle Blvd and Kings Blv
 <figcaption>Figure 3. Circle Blvd & Kings Blvd, Corvallis, Oregon. The highlighted blue area represents "Minor Arterial" and the highlighted purple area represents "Major Collector".</figcaption>
 </figure>
 
-The name of the segment should start with the road name from where the count originates and include the direction of travel. The second part of the segment name is the road name of the intersection. The three segment names for Example 2 are:
-- Circle Blvd - W & Kings Blvd
-- Circle Blvd - E & Kings Blvd
+The name of the segment should start with the road name from where the count originates and include the functional classifcation in parentheses. The second part of the segment name is the road name of the intersection. The three segment names for Example 2 are:
+- Circle Blvd (Minor Arterial) & Kings Blvd
+- Circle Blvd (Major Collector) & Kings Blvd
 - Kings Blvd & Circle Blvd
-
-Where, "Circle Blvd - W & Kings Blvd" refers to Circle Blvd with the _Functional Classification_ "Minor Arterial"; and "Circle Blvd - E & Kings Blvd" refers to Circle Blvd with the _Functional Classification_ of "Major Collector".
 
 ### Example 4
 There are 12 _Segment Areas_ where 8th St, Townsend St, Division St, and Henry Adams St intersect around a roundabout. Division St and Townsend St are both "Major Collectors", 8th St is a "Minor Arterial", and Henry Adams St is a "Local" road (Figure 4).
