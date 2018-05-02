@@ -70,3 +70,5 @@ The 12 segment names for Example 3 are:
 - 8th St & Townsend St
 - 8th St & Division St
 - 8th St & Henry Adams St
+
+Additional exceptions: If there is an intersection where the name changes after an intersection following the same flow of traffic creating a separate _Segment Area_ is recommended to avoid confusion when creating and uploading metadata or count data. In addition, if there is an intersection where a bicyclist or pedestrian can turn in the same flow direction but onto two different facilities (insert figure here of trail versus street), creating a separate _Segment Area_ is also recommended to avoid confusion.
