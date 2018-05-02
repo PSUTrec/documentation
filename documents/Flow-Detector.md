@@ -6,7 +6,7 @@ The flow detector links the _Detector_ information with _Flow_. The required par
 
 Latitude and longitude values are in decimal degrees with projection coordinates of WGS84 datum.
 
-If a GPS unit is not available to record the location of a flow detector use Google Earth to determine an approximate location. A _Flow Detector_ is unique based on the combination of the _Detector_, the _Flow_, and the location (latitude and longitude). A single location can have multiple _Flow Detectors_ (multiple _Flow Detectors_ can be co-located).
+If a GPS unit is not available to record the location of a flow detector use [Google Earth](https://github.com/PSUTrec/documentation/blob/master/documents/Additional-Resources.md) to determine an approximate location. A _Flow Detector_ is unique based on the combination of the _Detector_, the _Flow_, and the location (latitude and longitude). A single location can have multiple _Flow Detectors_ (multiple _Flow Detectors_ can be co-located).
 
 Additional optional attributes associated with _Flow Detector_ are:
 

@@ -33,4 +33,5 @@ The outline below shows current sections in progress.
 
 
 ## References
+### [Additional Resources](https://github.com/PSUTrec/documentation/blob/master/documents/Additional-Resources.md)
 ### [Parameter Definitions](https://github.com/PSUTrec/documentation/blob/master/documents/paramenter-definitions.md)
