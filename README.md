@@ -6,7 +6,7 @@ The outline below shows current sections in progress.
 
 ## Preface
 
-### About BikePed Portal
+### [About BikePed Portal](https://github.com/PSUTrec/documentation/blob/master/documents/About.md)
 
 ### How to use this Guide
 
