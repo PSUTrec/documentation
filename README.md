@@ -30,7 +30,10 @@ The outline below shows current sections in progress.
 
 ## Tutorial and Examples of Using BikePed Portal
 ### Summary
-
+### Data QA/QC
+### Explore Page
+### Dashboard Page
+### Download Page
 
 ## References
 ### [Additional Resources](https://github.com/PSUTrec/documentation/blob/master/documents/Additional-Resources.md)
