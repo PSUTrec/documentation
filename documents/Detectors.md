@@ -20,4 +20,6 @@ If counts are manually recorded then the Make or Model field should be filled wi
 
 
 
-[Back to Table of Contents](https://github.com/PSUTrec/documentation)
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30

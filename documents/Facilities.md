@@ -45,4 +45,8 @@ Other characteristics associated with facilities should be included when applica
 <figure align = "center">
 <img src="https://github.com/PSUTrec/documentation/blob/master/images/FolsomSt%2614thSt.jpg" width="700">
 <figcaption>Fig 4. Intersection of Folsom St and 14th St, San Francisco, California.</figcaption>
-</figure>
+</figure>  
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30

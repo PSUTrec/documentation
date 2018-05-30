@@ -20,4 +20,8 @@ Bicyclists traveling eastbound in a bike line on 14th St have an option to trave
 <figcaption>Fig 5. Intersection of Folsom St and 14th St, San Francisco, California, showing three possible travel _directions_ from eastbound 14th St.</figcaption>
 </figure>
 
-If all directions of travel are observed then there will be three "bicycle" type flows associated with this one _Facility_. The _Direction_ for traveling eastbound on 14th St and then turning right going southbound on Folsom St would be "E, S", where the first direction is the initial direction of travel and the second direction is the continued direction of travel at the intersection. The _Direction_ for traveling eastbound on 14th St and then continuing on 14th St would be "E, E". The _Direction_ for traveling eastbound on 14th St and then turning left going northbound on Folsom St would be "E, N".
+If all directions of travel are observed then there will be three "bicycle" type flows associated with this one _Facility_. The _Direction_ for traveling eastbound on 14th St and then turning right going southbound on Folsom St would be "E, S", where the first direction is the initial direction of travel and the second direction is the continued direction of travel at the intersection. The _Direction_ for traveling eastbound on 14th St and then continuing on 14th St would be "E, E". The _Direction_ for traveling eastbound on 14th St and then turning left going northbound on Folsom St would be "E, N".  
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30

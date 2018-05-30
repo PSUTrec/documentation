@@ -22,7 +22,11 @@ If bicyclists are being manually counted at the intersection of 14th St and Fols
 <figure align = "center">
 <img src="https://github.com/PSUTrec/documentation/blob/master/images/flowdetectors-2.png" width="700">
 <figcaption>Fig 6. Intersection of Folsom St and 14th St, San Francisco, California, showing four possible flow detectors.</figcaption>
-</figure>
+</figure>  
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30
 
 
 

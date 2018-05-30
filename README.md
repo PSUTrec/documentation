@@ -2,7 +2,9 @@
 
 This repo contains a working documentation of how to use BikePed Portal.
 
-The outline below shows current sections in progress.
+Sections in progress are hyperlinked.
+
+Last Updated: 2018-05-30
 
 ## Preface
 
@@ -37,4 +39,6 @@ The outline below shows current sections in progress.
 
 ## References
 ### [Additional Resources](https://github.com/PSUTrec/documentation/blob/master/documents/Additional-Resources.md)
-### [Parameter Definitions](https://github.com/PSUTrec/documentation/blob/master/documents/paramenter-definitions.md)
+### [Parameter Definitions](https://github.com/PSUTrec/documentation/blob/master/documents/paramenter-definitions.md)  
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)

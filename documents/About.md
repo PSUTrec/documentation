@@ -6,3 +6,7 @@ BikePed Portal is developed to be the leading national data archive for bicycle 
 ### Background
 
 ### Summary and Objectives
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30

@@ -15,4 +15,8 @@ Functional classes used in BikePed Portal are:
 * Trail or Shared Use Path
 * General Activity Count
 
-"General Activity Count" specifically defines counts that are taken on plazas, or other land-use features (e.g. National Mall, Boston Commons).
+"General Activity Count" specifically defines counts that are taken on plazas, or other land-use features (e.g. National Mall, Boston Commons).  
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30

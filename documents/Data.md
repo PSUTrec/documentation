@@ -12,6 +12,10 @@ If uploading a bulk file for multiple flow detectors then the following paramete
 
 * Latitude of flow detector
 * Longitude of flow detector
-* Flow ID
+* Flow detector ID
 
-The Flow ID for each flow detector is provided once all the metadata is completed.
+The flow detector ID for each flow detector is provided once all the metadata is completed.
+
+[Feedback](https://github.com/PSUTrec/documentation/issues)  
+[Back to TOC](https://github.com/PSUTrec/documentation)  
+Last updated: 2018-05-30
