@@ -1,6 +1,6 @@
 # User Documentation for BikePed Portal
 
-This repo contains a working documentation of how to use BikePed Portal.
+This repo contains a ongoing documentation effort of how to use BikePed Portal.
 
 Sections in progress are hyperlinked.
 
