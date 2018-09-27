@@ -31,7 +31,7 @@ The "side" of the facility should be included if the flow direction of travel is
 
 ### Example
 
-Figure 4 shows the intersection of Folsom St and 14th St where pedestrian and bicyclist counts were measured. There are two unique _Segment Areas_, "Folsom St & 14th St" and "14th St & Folsom St". The "Folsom St & 14th St" _Segment Area_ has three potential _Facility Types_:
+Figure 1 shows the intersection of Folsom St and 14th St where pedestrian and bicyclist counts were measured. There are two unique _Segment Areas_, "Folsom St & 14th St" and "14th St & Folsom St". The "Folsom St & 14th St" _Segment Area_ has three potential _Facility Types_:
 * bike lane on Folsom St
 * sidewalk on the east side of Folsom St
 * sidewalk on the west side of Folsom St
@@ -46,5 +46,5 @@ Other characteristics associated with facilities should be included when applica
 
 <figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/facilities-FolsomSt-14thSt-img.jpg" alt="">
-  <figcaption>Fig 4. Intersection of Folsom St and 14th St, San Francisco, California.</figcaption>
+  <figcaption>Fig 1. Intersection of Folsom St and 14th St, San Francisco, California.</figcaption>
 </figure>  

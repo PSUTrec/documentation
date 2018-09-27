@@ -15,11 +15,11 @@ Additional characteristics of _Flow_ include:
 These types of flows are not mutually exclusive and allow flexibility for choosing multiple flow types when unknown (e.g. infrared counters are unable to distinguish bicyclists, pedestrians, and equestrians on multiuser trails). When applicable, select the appropriate flow types.
 
 ### Example
-Bicyclists traveling eastbound in a bike line on 14th St have an option to travel in three directions at the intersection with Folsom St (Figure 5).
+Bicyclists traveling eastbound in a bike line on 14th St have an option to travel in three directions at the intersection with Folsom St (Fig. 1).
 
 <figure class="left-align">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/flow-14thSt-FolsomSt-img.png" alt="">
-  <figcaption>Fig 5. Intersection of Folsom St and 14th St, San Francisco, California, showing three possible travel _directions_ from eastbound 14th St.</figcaption>
+  <figcaption>Fig 1. Intersection of Folsom St and 14th St, San Francisco, California, showing three possible travel _directions_ from eastbound 14th St.</figcaption>
 </figure>
 
 If all directions of travel are observed then there will be three "bicycle" type flows associated with this one _Facility_. The _Direction_ for traveling eastbound on 14th St and then turning right going southbound on Folsom St would be "E, S", where the first direction is the initial direction of travel and the second direction is the continued direction of travel at the intersection. The _Direction_ for traveling eastbound on 14th St and then continuing on 14th St would be "E, E". The _Direction_ for traveling eastbound on 14th St and then turning left going northbound on Folsom St would be "E, N".  
