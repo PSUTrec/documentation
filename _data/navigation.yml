@@ -13,6 +13,7 @@ main:
 
 documents:
   - title: Documentation
+    url: https://psutrec.github.io/documentation/documents/
     children:
       - title: "Metadata Summary"
         url: /documents/00-metadata-summary/
