@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://PSUTrec.github.io/documentation/About/
+    url: https://psutrec.github.io/documentation/about/
   - title: "Documentation"
-    url: https://PSUTrec.github.io/documentation/documents/
+    url: https://psutrec.github.io/documentation/documents/
   - title: "Updates & Notices"
-    url: https://PSUTrec.github.io/documentation/updates-notices/
+    url: https://psutrec.github.io/documentation/updates-notices/
   - title: "BikePed Portal"
     url: https://http.cat/404
   # - title: "Sitemap"
