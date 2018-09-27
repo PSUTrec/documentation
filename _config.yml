@@ -21,8 +21,8 @@ title_separator          : "-"
 name                     :
 description              : "User documentation for BikePed Portal"
 url                      : "https://PSUTrec.github.io"
-baseurl                  : "/bikeped-documentation"
-repository               : "PSUTrec/portal-documentation"
+baseurl                  : "/documentation"
+repository               : "PSUTrec/documentation"
 teaser                   : #"/assets/images/teaser.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
