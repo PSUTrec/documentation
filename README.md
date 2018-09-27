@@ -2,7 +2,7 @@
 
 This repo contains working documentation for BikePed Portal.
 
-Website can be found [here](https://PSUTrec.github.io/bikeped-documentation/).
+Website can be found [here](https://PSUTrec.github.io/documentation/).
 
 This website was built using mmistakes/minimal-mistakes.
 
