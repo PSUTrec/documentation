@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>flow detectors example.kml</name>
+	<Style id="sn_placemark_circle">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>flow detectors example</name>
+		<open>1</open>
+		<Placemark>
+			<name>Flow Detector 8</name>
+			<LookAt>
+				<longitude>-122.4155836442416</longitude>
+				<latitude>37.76853967233902</latitude>
+				<altitude>0</altitude>
+				<heading>0.000130854690624495</heading>
+				<tilt>0</tilt>
+				<range>120.4597086028184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4154466965795,37.76857076270555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 1</name>
+			<LookAt>
+				<longitude>-122.4160275197027</longitude>
+				<latitude>37.76809286156674</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001352482078502444</heading>
+				<tilt>0</tilt>
+				<range>240.0416807508593</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4158109656608,37.76849533854385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 9</name>
+			<LookAt>
+				<longitude>-122.4155836442416</longitude>
+				<latitude>37.76853967233902</latitude>
+				<altitude>0</altitude>
+				<heading>0.000130854690624495</heading>
+				<tilt>0</tilt>
+				<range>120.4597086028184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4155486434124,37.76845818412699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 5</name>
+			<LookAt>
+				<longitude>-122.4155836442416</longitude>
+				<latitude>37.76853967233902</latitude>
+				<altitude>0</altitude>
+				<heading>0.000130854690624495</heading>
+				<tilt>0</tilt>
+				<range>120.4597086028184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4157162915617,37.76864377191491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 2</name>
+			<LookAt>
+				<longitude>-122.4157101222817</longitude>
+				<latitude>37.76851586287145</latitude>
+				<altitude>0</altitude>
+				<heading>8.151761648590993e-12</heading>
+				<tilt>0</tilt>
+				<range>82.91291847534325</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4158125944449,37.76851091405086,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 6</name>
+			<LookAt>
+				<longitude>-122.4155836442416</longitude>
+				<latitude>37.76853967233902</latitude>
+				<altitude>0</altitude>
+				<heading>0.000130854690624495</heading>
+				<tilt>0</tilt>
+				<range>120.4597086028184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4156884507426,37.76864294960878,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 3</name>
+			<LookAt>
+				<longitude>-122.4157101222817</longitude>
+				<latitude>37.76851586287145</latitude>
+				<altitude>0</altitude>
+				<heading>8.151761648590993e-12</heading>
+				<tilt>0</tilt>
+				<range>82.91291847534325</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4158145128591,37.7685291388548,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 7</name>
+			<LookAt>
+				<longitude>-122.4155836442416</longitude>
+				<latitude>37.76853967233902</latitude>
+				<altitude>0</altitude>
+				<heading>0.000130854690624495</heading>
+				<tilt>0</tilt>
+				<range>120.4597086028184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4154480165557,37.768593846498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Flow Detector 10</name>
+			<LookAt>
+				<longitude>-122.4155836442416</longitude>
+				<latitude>37.76853967233902</latitude>
+				<altitude>0</altitude>
+				<heading>0.000130854690624495</heading>
+				<tilt>0</tilt>
+				<range>120.4597086028184</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_placemark_circle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-122.4155659126331,37.76845594974653,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

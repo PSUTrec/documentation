@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "About"
+    url: https://PSUTrec.github.io/bikeped-documentation/About/
+  - title: "Documentation"
+    url: https://PSUTrec.github.io/bikeped-documentation/documents/
+  - title: "Updates & Notices"
+    url: https://PSUTrec.github.io/bikeped-documentation/updates-notices/
+  - title: "BikePed Portal"
+    url: https://http.cat/404
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+documents:
+  - title: Documentation
+    children:
+      - title: "Metadata Summary"
+        url: /documents/00-metadata-summary/
+      - title: "Segment Areas"
+        url: /documents/01-segment-areas/
+      - title: "Facilities"
+        url: /documents/02-facilities/
+      - title: "Flows"
+        url: /documents/03-flows/
+      - title: "Detectors"
+        url: /documents/04-detectors/
+      - title: "Flow Detectors"
+        url: /documents/05-flow-detector/
+      - title: "Data"
+        url: /documents/06-data/
+      - title: "Parameter Definitions"
+        url: /documents/07-parameter-definitions/
+      - title: "Additional Resources"
+        url: /documents/08-additional-resources/
