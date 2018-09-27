@@ -3,7 +3,7 @@ title: "Segment Area"
 ---
 _Segment Areas_ are uniquely defined (and required) by the following parameters:
 * _Segment Area Name_
-* [_Functional Classification_](https://github.com/PSUTrec/documentation/blob/master/documents/paramenter-definitions.md)
+* [_Functional Classification_](https://psutrec.github.io/documentation/documents/paramenter-definitions.md)
 * _State_
 * _County_
 
@@ -21,9 +21,9 @@ A typical _Segment Area_ extends along a road or pathway until a user is able to
 ### Example 1
 If counts are being recorded on either side and both directions on Hawthorne Bridge the _Segment Area_ is "Hawthorne Bridge" (Figure 1).
 
-<figure align = "center">
-<img src="https://github.com/PSUTrec/documentation/blob/master/images/HawthorneBridge.jpg" width="500">
-<figcaption>Figure 1. Hawthorne Bridge, Portland, Oregon.</figcaption>
+<figure class="left-align">
+  <img src="{{ site.url }}{{site.baseurl }}/assets/images/seg-hawthorn-bridge-img.jpg" alt = "">
+  <figcaption>Figure 1. Hawthorne Bridge, Portland, Oregon.</figcaption>
 </figure>  
 
 ## Intersections
@@ -33,16 +33,16 @@ The name of the segment should start with the road name from where the count ori
 There are two _Segment Areas_ at the intersection of 17th St and Valencia St. If bicyclists are being counted on Valencia St either continuing travel on Valencia St or turning onto 17th St. The _Segment Area Name_ would be "Valencia St & 17th St" (Figure 2). If bicyclists are being counted on 17th St and are either continuing to travel on 17th St or turning onto Valencia St, the _Segment Area Name_ would be "17th St & Valencia St".
 
 <figure align = "center">
-<img src="https://github.com/PSUTrec/documentation/blob/master/images/17thSt%26ValenciaSt_fig1.png" width="500">
-<figcaption>Figure 2. 17th St & Valencia St, San Francisco, California.</figcaption>
+  <img src="{{ site.url }}{{site.baseurl }}/assets/images/seg-17thSt-ValenciaSt-img.png" alt="">
+  <figcaption>Figure 2. 17th St & Valencia St, San Francisco, California.</figcaption>
 </figure>  
 
 ### Example 3
 There are three _Segment Areas_ at the intersection of Circle Blvd and Kings Blvd because the _Functional Classification_ of Circle Blvd changes from "Minor Collector" to "Minor Arterial" (Figure 3).
 
 <figure align="center">
-<img src="https://github.com/PSUTrec/documentation/blob/master/images/CircleBlvd%26KingsBlvd_fig2.png" width="500">
-<figcaption>Figure 3. Circle Blvd & Kings Blvd, Corvallis, Oregon. The highlighted blue area represents "Minor Arterial" and the highlighted purple area represents "Major Collector".</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seg-CircleBlvd-KingsBlvd-img.png" alt="">
+  <figcaption>Figure 3. Circle Blvd & Kings Blvd, Corvallis, Oregon. The highlighted blue area represents "Minor Arterial" and the highlighted purple area represents "Major Collector".</figcaption>
 </figure>
 
 The name of the segment should start with the road name from where the count originates and include the functional classifcation in parentheses. The second part of the segment name is the road name of the intersection. The three segment names for Example 2 are:
@@ -53,9 +53,9 @@ The name of the segment should start with the road name from where the count ori
 ### Example 4
 There are 12 _Segment Areas_ where 8th St, Townsend St, Division St, and Henry Adams St intersect around a roundabout. Division St and Townsend St are both "Major Collectors", 8th St is a "Minor Arterial", and Henry Adams St is a "Local" road (Figure 4).
 
-<figure align="center">
-<img src="https://github.com/PSUTrec/documentation/blob/master/images/8thSt%26TownsendSt_fig3.png" width="500">
-<figcaption>Figure 4. A five way roundabout in San Francisco, California. The highlighted blue area represents "Minor Arterial", the highlighted purple area represents "Major Collector", and the highlighted gray area represents "Local" functional classes.</figcaption>
+<figure class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seg-8thSt-TownsendSt-img.png" alt="">
+  <figcaption>Figure 4. A five way roundabout in San Francisco, California. The highlighted blue area represents "Minor Arterial", the highlighted purple area represents "Major Collector", and the highlighted gray area represents "Local" functional classes.</figcaption>
 </figure>
 
 The 12 segment names for Example 3 are:
