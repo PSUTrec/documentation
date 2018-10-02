@@ -1,4 +1,4 @@
-# User Documentation for PORTAL
+# User Documentation for BikePed Portal
 
 This repo contains working documentation for BikePed Portal.
 
