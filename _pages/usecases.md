@@ -6,6 +6,6 @@ collection: usecases
 classes: wide
 author_profile: false
 sidebar:
-  nav: "Use Cases"
+  nav: "usecases"
 ---
-Upcoming Use Cases for BikePed Portal:
+Bicycle and pedestrian counts are used by tranpsortation agencies to support a variety of analyses. They are used to measure facility usage, compare patterns, check counters and equipment, in before / after studies, etc. The data obtained from BPP can help support these activities. 
