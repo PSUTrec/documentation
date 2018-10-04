@@ -11,7 +11,7 @@ sidebar:
 Bicycle and pedestrian counts are used by transportation agencies to support a variety of analyses. They are used to measure facility usage, compare patterns, check counters and equipment, in before / after studies, etc. The data obtained from BPP can help support these activities. 
 
 ### Comparing Patterns
-
+Agencies use bicycle volumes to understand travel behavior and the effect of days of the week, seasonal variations, and the impact of weather. It's helpful to understand the patterns to discern commute trips from recreation.
 
 ### Equipment Checks
 
@@ -26,7 +26,7 @@ In the Explore Data interface, outliers can be identified once the data are plot
 
 ### Before/After Studies
 
-Tell the story of how funds have been used, tell before and after stories
+Before and after studies are important to understand the impact of infrastructure investment. In the classic sense, "if you build it they will come" rings true for safer bicycle infrastructure. Accurate short duration counts that can be extrapolated are a key to tellng this story. Once downloaded, you can use techniques such as cluster analysis to better understand the travel patterns.
 
 
 
