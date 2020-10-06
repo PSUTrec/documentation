@@ -3,7 +3,7 @@ title: "Segment Area"
 ---
 _Segment Areas_ are uniquely defined (and required) by the following parameters:
 * _Segment Area Name_
-* [_Functional Classification_]({{ site.url }}{{ site.baseurl }}/documents/07-parameter-definitions.md)
+* [_Functional Classification_](https://psutrec.github.io/documentation/documents/07-parameter-definitions/)
 * _State_
 * _County_
 
