@@ -41,7 +41,7 @@ There are two _Segment Areas_ at the intersection of 17th St and Valencia St. If
 There are three _Segment Areas_ at the intersection of Circle Blvd and Kings Blvd because the _Functional Classification_ of Circle Blvd changes from "Minor Collector" to "Minor Arterial" (Fig. 3).
 
 <figure class="left-align">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seg-CircleBlvd-KingsBlvd-img.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seg-CircleBlvdAndKingsBlvd-img.png" alt="">
   <figcaption>Fig. 3. Circle Blvd & Kings Blvd, Corvallis, Oregon. The highlighted blue area represents "Minor Arterial" and the highlighted purple area represents "Major Collector".</figcaption>
 </figure>
 
