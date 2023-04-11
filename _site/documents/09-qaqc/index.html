@@ -9,19 +9,19 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Facilities - BikePed Portal: User Documentation</title>
-<meta name="description" content="For each unique segment area there can be multiple facility types within a given Segment Area (e.g. roadway and sidewalk). Required parameters for Facilities include Facility Type and a brief Description. In addition, facilities can change over time (e.g. a roadway one year turns into a bike lane the next year). A new Facility Type must be created each time it changes. Facility Types included are:">
+<!-- begin _includes/seo.html --><title>QAQC - BikePed Portal: User Documentation</title>
+<meta name="description" content="BikePed Portal employs QAQC flags to all permanent count locations. The QAQC flags include:  zero-run length (e.g. the number of consecutive zeros)  non-zero run length (e.g. the number of consecutive non-zero volumes)  rolling median (daily volume compared to median volume from past 27 days)For more details on how the calculations were determined please refer to McNeil and Tufte (2018).How to use the QAQC tool">
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="BikePed Portal: User Documentation">
-<meta property="og:title" content="Facilities">
-<meta property="og:url" content="http://localhost:4000/documentation/documents/02-facilities/">
+<meta property="og:title" content="QAQC">
+<meta property="og:url" content="http://localhost:4000/documentation/documents/09-qaqc/">
 
 
-  <meta property="og:description" content="For each unique segment area there can be multiple facility types within a given Segment Area (e.g. roadway and sidewalk). Required parameters for Facilities include Facility Type and a brief Description. In addition, facilities can change over time (e.g. a roadway one year turns into a bike lane the next year). A new Facility Type must be created each time it changes. Facility Types included are:">
+  <meta property="og:description" content="BikePed Portal employs QAQC flags to all permanent count locations. The QAQC flags include:  zero-run length (e.g. the number of consecutive zeros)  non-zero run length (e.g. the number of consecutive non-zero volumes)  rolling median (daily volume compared to median volume from past 27 days)For more details on how the calculations were determined please refer to McNeil and Tufte (2018).How to use the QAQC tool">
 
 
 
@@ -40,7 +40,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/documentation/documents/02-facilities/">
+<link rel="canonical" href="http://localhost:4000/documentation/documents/09-qaqc/">
 
 
 
@@ -194,7 +194,7 @@
             
             
 
-            <li><a href="/documentation/documents/02-facilities/" class="active">Facilities</a></li>
+            <li><a href="/documentation/documents/02-facilities/" class="">Facilities</a></li>
           
             
             
@@ -265,7 +265,7 @@
             
             
 
-            <li><a href="/documentation/documents/09-qaqc/" class="">QA/QC</a></li>
+            <li><a href="/documentation/documents/09-qaqc/" class="active">QA/QC</a></li>
           
             
             
@@ -287,15 +287,15 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Facilities">
-    <meta itemprop="description" content="For each unique segment area there can be multiple facility types within a given Segment Area (e.g. roadway and sidewalk). Required parameters for Facilities include Facility Type and a brief Description. In addition, facilities can change over time (e.g. a roadway one year turns into a bike lane the next year). A new Facility Type must be created each time it changes. Facility Types included are:">
+    <meta itemprop="headline" content="QAQC">
+    <meta itemprop="description" content="BikePed Portal employs QAQC flags to all permanent count locations. The QAQC flags include:  zero-run length (e.g. the number of consecutive zeros)  non-zero run length (e.g. the number of consecutive non-zero volumes)  rolling median (daily volume compared to median volume from past 27 days)For more details on how the calculations were determined please refer to McNeil and Tufte (2018).How to use the QAQC tool">
     <meta itemprop="datePublished" content="April 11, 2023">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Facilities
+          <h1 id="page-title" class="page__title" itemprop="headline">QAQC
 </h1>
           
         </header>
@@ -303,60 +303,41 @@
 
       <section class="page__content" itemprop="text">
         
-        <p>For each unique segment area there can be multiple facility types within a given <em>Segment Area</em> (e.g. roadway and sidewalk). Required parameters for <em>Facilities</em> include <em>Facility Type</em> and a brief <em>Description</em>. In addition, facilities can change over time (e.g. a roadway one year turns into a bike lane the next year). A new <em>Facility Type</em> must be created each time it changes. <em>Facility Types</em> included are:</p>
-
+        <p>BikePed Portal employs QAQC flags to all permanent count locations. The QAQC flags include:</p>
 <ul>
-  <li>bike lane</li>
-  <li>general activity count</li>
-  <li>roadway</li>
-  <li>path/trail</li>
-  <li>sidewalk</li>
-  <li>cycle track</li>
-  <li>crosswalk</li>
+  <li>zero-run length (e.g. the number of consecutive zeros)</li>
+  <li>non-zero run length (e.g. the number of consecutive non-zero volumes)</li>
+  <li>rolling median (daily volume compared to median volume from past 27 days)</li>
 </ul>
 
-<p>Only include <em>Facility Type</em> where traffic counts are observed. For example, if bicycle counts are the only measurement on a typical urban street with a bike lane and sidewalks, and no bicyclists were observed on the sidewalk, then the only facility would be the bike lane. Additional characteristics associated with facilities should be included when applicable (e.g. sharrows or bike route signs on roadways). These additional characteristics are:</p>
+<p>For more details on how the calculations were determined please refer to <a href="https://nitc.trec.pdx.edu/research/project/1026/Biking_and_Walking_Quality_Counts:_Using_%E2%80%9CBikePed_Portal%E2%80%9D_Counts_to_Develop_Data_Quality_Checks">McNeil and Tufte (2018)</a>.</p>
 
-<ul>
-  <li>paved</li>
-  <li>side</li>
-  <li>facility width</li>
-  <li>color</li>
-  <li>color type</li>
-  <li>buffer (none, concrete barrier, other physical barrier, flexible posts, painted stripe)</li>
-  <li>overpass</li>
-  <li>underpass</li>
-  <li>sharrows</li>
-  <li>bike route signs</li>
-  <li>bike boulevard</li>
-  <li>intersection</li>
-</ul>
+<h2 id="how-to-use-the-qaqc-tool">How to use the QAQC tool</h2>
 
-<p>The “side” of the facility should be included if the flow direction of travel is ambiguous.</p>
-
-<h3 id="example">Example</h3>
-
-<p>Figure 1 shows the intersection of Folsom St and 14th St where pedestrian and bicyclist counts were measured. There are two unique <em>Segment Areas</em>, “Folsom St &amp; 14th St” and “14th St &amp; Folsom St”. The “Folsom St &amp; 14th St” <em>Segment Area</em> has three potential <em>Facility Types</em>:</p>
-<ul>
-  <li>bike lane on Folsom St</li>
-  <li>sidewalk on the east side of Folsom St</li>
-  <li>sidewalk on the west side of Folsom St</li>
-</ul>
-
-<p>The “14th St &amp; Folsom St” <em>Segment Area</em> has four potential facility types:</p>
-<ul>
-  <li>eastbound bike lane along a one way street that terminates at Folsom St,</li>
-  <li>roadway with sharrows on 14th St east of Folsom St</li>
-  <li>sidewalk on north side of 14th St</li>
-  <li>sidewalk on south side of 14th St</li>
-</ul>
-
-<p>Other characteristics associated with facilities should be included when applicable (e.g. sharrows along 14th St east of Folsom St) because these additional types of characteristics often change over time.</p>
+<h3 id="step-1-select-a-flow-detector">Step 1: Select a flow detector</h3>
+<p>After selecting the QA/QC tab on the left sidebar, you will automatically be shown the organizations you have permission to view or edit. If your organization membership has detectors located in multiple states, you will then be directed to pick a state before being given the option to select a segment area of interest.</p>
 
 <figure class="align-left">
-  <img src="http://localhost:4000/documentation/assets/images/facilities-FolsomSt-14thSt-img.jpg" alt="" />
-  <figcaption>Fig 1. Intersection of Folsom St and 14th St, San Francisco, California.</figcaption>
+  <img src="http://localhost:4000/documentation/assets/images/qaqc-segarea-interest.png" alt="" />
+  <figcaption>Fig. 1. Example of user interface at the for selecting a segment area of interest. Note that you can also type in the search bar if you're looking for a specific area.</figcaption>
 </figure>
+
+<p>Once the segment area of interest has been selected, a list of flow detectors will be displayed providing the flow detector ID, flow type (e.g. bike, pedestrian, other), and direction (e.g. E, W, undefined). Once the flow detector of interest has been selected, the interface will switch to the “Review” tab.</p>
+
+<h3 id="step-2-select-the-data-period">Step 2: Select the data period</h3>
+<p>A display of the most recent month of data is the default display. Use the sidebar on the right to select the data period (e.g. year, month) and see which months have “no data”, “not yet reviewed”, “fully reviewed”, and “partially reviewed”.</p>
+
+<p>Once a data period has been selected, the chart will update with the raw data and any visual flags for that month.</p>
+
+<figure class="align-left">
+  <img src="http://localhost:4000/documentation/assets/images/qaqc-review-page.png" alt="" />
+  <figcaption>Fig. 2. Example of review page for a specific flow detector. Note the options in the right sidebar area and definitons for flagged data values and review status.</figcaption>
+</figure>
+
+<p>Users can either use the range selector at the bottom of the figure, or highlight the figure, to select the range of data of interest. The table will update to show which rows of data have been selected. Once the data are selected, choose one of three reviewer options “mark selected as valid”, “mark selected as unsure”, or “mark selected as invalid”. Changes made will be updated immediately.</p>
+
+<h3 id="step-3-download-data">Step 3: Download data</h3>
+<p>When users download data from the “Download Data” page, data flags and review status are also included.</p>
 
         
       </section>
@@ -376,25 +357,24 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=Facilities%20http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F02-facilities%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=QAQC%20http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F09-qaqc%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F02-facilities%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F09-qaqc%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F02-facilities%2F" class="btn btn--google-plus" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Google Plus"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F09-qaqc%2F" class="btn btn--google-plus" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Google Plus"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F02-facilities%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fdocumentation%2Fdocuments%2F09-qaqc%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 -->
       
   <nav class="pagination">
     
-      <a href="/documentation/documents/01-segment-areas/" class="pagination--pager" title="Segment Area
+      <a href="/documentation/documents/08-additional-resources/" class="pagination--pager" title="Additional Resources
 ">Previous</a>
     
     
-      <a href="/documentation/documents/03-flows/" class="pagination--pager" title="Flows
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 

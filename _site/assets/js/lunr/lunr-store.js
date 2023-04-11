@@ -44,6 +44,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/documentation/documents/08-additional-resources/",
         "teaser":null},{
+        "title": "QAQC",
+        "excerpt":"BikePed Portal employs QAQC flags to all permanent count locations. The QAQC flags include: zero-run length (e.g. the number of consecutive zeros) non-zero run length (e.g. the number of consecutive non-zero volumes) rolling median (daily volume compared to median volume from past 27 days)For more details on how the calculations...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/documentation/documents/09-qaqc/",
+        "teaser":null},{
         "title": "Switch to GitHub Pages",
         "excerpt":"User documentation for BikePed Portal has been switched from a standard GitHub repository to using GitHub Pages using Minimal Mistakes theme. ","categories": [],
         "tags": ["updates&notices"],
