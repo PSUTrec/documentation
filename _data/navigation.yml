@@ -12,8 +12,8 @@ main:
   #   url: /sitemap/
 
 documents:
-  - title: Documentation
-    url: https://psutrec.github.io/documentation/documents/
+  - title: Metadata
+    url: /documentation/documents/
     children:
       - title: "Metadata Summary"
         url: /documents/00-metadata-summary/
@@ -33,3 +33,11 @@ documents:
         url: /documents/07-parameter-definitions/
       - title: "Additional Resources"
         url: /documents/08-additional-resources/
+
+  - title: Features and Tools
+    url: /documentation/documents/
+    children:
+      - title: "QA/QC"
+        url: /documents/09-qaqc/
+      - title: "Annotations"
+        url: /documents/10-annotations/
