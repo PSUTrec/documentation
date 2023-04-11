@@ -20,7 +20,7 @@ title                    : "BikePed Portal: User Documentation"
 title_separator          : "-"
 name                     :
 description              : "User documentation for BikePed Portal"
-url                      : "https://PSUTrec.github.io"
+url                      : "localhots:port"
 baseurl                  : "/documentation"
 repository               : "PSUTrec/documentation"
 teaser                   : #"/assets/images/teaser.jpg"
