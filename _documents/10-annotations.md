@@ -9,7 +9,7 @@ You may want to enter an annotation for an event that applies to multiple detect
 Please note, the tool does not support data visualization for bulk annotations, so the rest of this tutorial will apply only to individual detector mode.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-bulk-mode.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-bulk-mode.jpg" alt="">
     <figcaption>Fig. 1. Entering annotations in bulk mode</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ If you want the plot to show a custom interval of time not supported by the butt
 At the bottom of the plot, below the horizontal axis, you will see a long rectangular graph whose horizontal and vertical axes represent the same things as on the larger plot, but whose timescale will always remain the total interval over which data has been collected by the flow detector you've selected. This graph shows the long-term fluctuations of the volume of data collected. 
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-view.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-view.jpg" alt="">
     <figcaption>Fig. 2. The annotation tool</figcaption>
 </figure>
 
@@ -45,21 +45,21 @@ There is a shaded region overlaid on the small graph which represents the sectio
 To make a new annotation, click on the icon of a text bubble and a plus sign at the top of the left sidebar. Then go to the plot and click on the data point you want to annotate. A vertical line will appear, aligned with that data point. If you want to annotate data over a larger interval of time than the data point contains, click on the data point at the left endpoint of that interval. A window will pop up.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/new-annotation-icon.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/new-annotation-icon.jpg" alt="">
     <figcaption>Fig. 3. Where to click for new annotation</figcaption>
 </figure>
 
 In the window, you can adjust the start and end date/time of your annotation, select what category it belongs to, and enter any clarifications you might have into a text box. Click _Save_ to create the annotation.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-window.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-window.jpg" alt="">
     <figcaption>Fig. 4. Creating an annotation</figcaption>
 </figure>
 
 Your annotation will now show up in the right sidebar. You can click the pencil icon to edit it, or the X to delete it.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-created-right-sidebar.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-created-right-sidebar.jpg" alt="">
     <figcaption>Fig. 5. Annotation info in right sidebar</figcaption>
 </figure>
 
@@ -70,14 +70,14 @@ The right sidebar will only show information about your most recent annotations.
 You can mouse over these strips and see the annotation category and the start and end date. Click on a strip to put it into the right sidebar for editing or deletion.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotations-in-plot.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotations-in-plot.jpg" alt="">
     <figcaption>Fig. 6. Multiple annotations of different types</figcaption>
 </figure>
 
 If you have multiple annotations of the same type, these will show up as a list in the right sidebar, and as a color strip on the data plot with a number in it corresponding to how many annotations are in the list. You can use the small diamond/triangle icons to sort by start and end time, the pencil icon to edit, and the X to delete.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-list.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-list.jpg" alt="">
     <figcaption>Fig. 7. Multiple annotations of the same type</figcaption>
 </figure>
 
