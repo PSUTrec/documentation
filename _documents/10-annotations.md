@@ -3,6 +3,16 @@ title: "Annotation"
 ---
 The following tutorial explains how to annotate your data in BikePed Portal, using our annotation tool. To access the annotation tool, start from the _Dashboard_ view of your account. From the left sidebar menu, click on _Annotations_, and select your organization, state, segment area of interest, and flow detector of interest. You will then arrive at the annotation tool.
 
+### Entering Bulk Annotations
+You may want to enter an annotation for an event that applies to multiple detectors. For this, you will use _bulk mode_. While following the instructions above, when you get to the part of the process where you're instructed to "Select segment of interest", click on the icon of a text bubble and a plus sign at the top of the left sidebar. This will open up an annotation window wherein you may select all the devices in all the segment areas affected, enter date range and annotation type, and make a note that applies to them all.
+
+Please note, the tool does not support data visualization for bulk annotations, so the rest of this tutorial will apply only to individual detector mode.
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-bulk-mode.jpg alt="">
+    <figcaption>Fig. 1. Entering annotations in bulk mode</figcaption>
+</figure>
+
 ### Controlling Plot View
 You will see a plot with data points, the horizontal axis of which represents time, and the vertical axis, volume of data. In the upper left region of the plot, next to the word _Zoom_, there are buttons you can use to adjust the time interval shown by the plot.
 
@@ -23,7 +33,7 @@ At the bottom of the plot, below the horizontal axis, you will see a long rectan
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-view.jpg alt="">
-    <figcaption>Fig. 1. The annotation tool</figcaption>
+    <figcaption>Fig. 2. The annotation tool</figcaption>
 </figure>
 
 #### An Alternative Method to Adjusting the Time Interval Shown by the Plot
@@ -36,21 +46,21 @@ To make a new annotation, click on the icon of a text bubble and a plus sign at 
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/new-annotation-icon.jpg alt="">
-    <figcaption>Fig. 2. Where to click for new annotation</figcaption>
+    <figcaption>Fig. 3. Where to click for new annotation</figcaption>
 </figure>
 
 In the window, you can adjust the start and end date/time of your annotation, select what category it belongs to, and enter any clarifications you might have into a text box. Click _Save_ to create the annotation.
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-window.jpg alt="">
-    <figcaption>Fig. 3. Creating an annotation</figcaption>
+    <figcaption>Fig. 4. Creating an annotation</figcaption>
 </figure>
 
 Your annotation will now show up in the right sidebar. You can click the pencil icon to edit it, or the X to delete it.
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-created-right-sidebar.jpg alt="">
-    <figcaption>Fig. 4. Annotation info in right sidebar</figcaption>
+    <figcaption>Fig. 5. Annotation info in right sidebar</figcaption>
 </figure>
 
 ### Viewing Multiple Annotations
@@ -61,7 +71,14 @@ You can mouse over these strips and see the annotation category and the start an
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotations-in-plot.jpg alt="">
-    <figcaption>Fig. 5. Multiple annotations shown on plot</figcaption>
+    <figcaption>Fig. 6. Multiple annotations of different types</figcaption>
+</figure>
+
+If you have multiple annotations of the same type, these will show up as a list in the right sidebar, and as a color strip on the data plot with a number in it corresponding to how many annotations are in the list. You can use the small diamond/triangle icons to sort by start and end time, the pencil icon to edit, and the X to delete.
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-list.jpg alt="">
+    <figcaption>Fig. 7. Multiple annotations of the same type</figcaption>
 </figure>
 
 
