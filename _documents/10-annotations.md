@@ -23,8 +23,13 @@ Suppose your organization is the Portland Bureau of Transportation, and you want
 </figure>
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-access-2.jpg" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-access-4.jpg" alt="">
     <figcaption>Fig. 4. Select segment area</figcaption>
+</figure>
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-access-5.jpg alt="">
+    <figcaption>Fig. 5. Select flow detector</figcaption>
 </figure>
 
 This last selection will bring you to _Review Mode_.
@@ -33,7 +38,7 @@ This last selection will bring you to _Review Mode_.
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/review-mode-1.jpg" alt="">
-    <figcaption>Fig. 5. Review mode</figcaption>
+    <figcaption>Fig. 6. Review mode</figcaption>
 </figure>
 
 When you adjust the time interval, data resolution will also be adjusted, as follows:
@@ -44,7 +49,7 @@ When you adjust the time interval, data resolution will also be adjusted, as fol
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/review-mode-2.jpg" alt="">
-    <figcaption>Fig. 6. Smaller graph showing long-term data fluctuations</figcaption>
+    <figcaption>Fig. 7. Smaller graph showing long-term data fluctuations</figcaption>
 </figure>
 
 ### Adding an Annotation
@@ -53,52 +58,52 @@ To make a new annotation, click on the annotation icon:
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/new-annotation-icon.jpg" alt="">
-    <figcaption>Fig. 7. New annotation: step 1</figcaption>
+    <figcaption>Fig. 8. New annotation: step 1</figcaption>
 </figure>
 
 Then follow the instructions in the right sidebar:
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/new-annotation-green.jpg" alt="">
-    <figcaption>Fig. 8. New annotation: step 2</figcaption>
+    <figcaption>Fig. 9. New annotation: step 2</figcaption>
 </figure>
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/new-annotation-red.jpg" alt="">
-    <figcaption>Fig. 9. New annotation: step 3</figcaption>
+    <figcaption>Fig. 10. New annotation: step 3</figcaption>
 </figure>
 
 In the window, you can enter more detailed information:
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-window.jpg" alt="">
-    <figcaption>Fig. 10. New annotation: step 4</figcaption>
+    <figcaption>Fig. 11. New annotation: step 4</figcaption>
 </figure>
 
 Your annotation will now show up in the right sidebar.
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-created-right-sidebar.jpg" alt="">
-    <figcaption>Fig. 11. Actions to perform on an annotation</figcaption>
+    <figcaption>Fig. 12. Actions to perform on an annotation</figcaption>
 </figure>
 
 ### Viewing Multiple Annotations
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotations-in-plot.jpg" alt="">
-    <figcaption>Fig. 12. Click Zoom --> All to see all your annotations</figcaption>
+    <figcaption>Fig. 13. Click Zoom --> All to see all your annotations</figcaption>
 </figure>
 
 Each color refers to a different category of annotation, providing a quick visual shorthand to assess which types of anomaly were the most prevalent during particular periods of time. 
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotations-in-plot.jpg" alt="">
-    <figcaption>Fig. 13. Mouse over color strip for information about annotation</figcaption>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotations-mouseover.jpg" alt="">
+    <figcaption>Fig. 14. Mouse over color strip for information about annotation</figcaption>
 </figure>
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/click-color-strip.jpg" alt="">
-    <figcaption>Fig. 14. Getting annotation list into right sidebar</figcaption>
+    <figcaption>Fig. 15. Getting annotation list into right sidebar</figcaption>
 </figure>
 
 ### Entering Bulk Annotations
@@ -107,12 +112,12 @@ You may want to enter an annotation for an event that applies to multiple detect
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-bulk-mode-1.jpg" alt="">
-    <figcaption>Fig. 15. Click the annotation icon to access bulk mode window</figcaption>
+    <figcaption>Fig. 16. Click the annotation icon to access bulk mode window</figcaption>
 </figure>
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-bulk-mode-2.jpg" alt="">
-    <figcaption>Fig. 16. Bulk mode annotation window</figcaption>
+    <figcaption>Fig. 17. Bulk mode annotation window</figcaption>
 </figure>
 
 Note that the default _bulk mode_ date/time setting will be the day you make the annotation, from 12:00 AM to 11:59 PM.
