@@ -108,7 +108,7 @@ Each color refers to a different category of annotation, providing a quick visua
 
 ### Entering Bulk Annotations
 
-You may want to enter an annotation for an event that applies to multiple detectors. For this, you will use _Bulk Mode_._Bulk Mode_ can be accessed by following the steps above in _Accessing the Annotation Tool_ until you reach the step _Select segment area of interest_.
+You may want to enter an annotation for an event that applies to multiple detectors. For this, you will use _Bulk Mode_. _Bulk Mode_ can be accessed by following the steps above in _Accessing the Annotation Tool_ until you reach the step _Select segment area of interest_.
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-bulk-mode-1.jpg" alt="">
