@@ -28,7 +28,7 @@ Suppose your organization is the Portland Bureau of Transportation, and you want
 </figure>
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-access-5.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-tool-access-5.jpg" alt="">
     <figcaption>Fig. 5. Select flow detector</figcaption>
 </figure>
 
