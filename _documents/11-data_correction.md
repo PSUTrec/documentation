@@ -1,10 +1,10 @@
 ---
-title: "Data Correction"
+title: "Adding a Correction Factor"
 ---
 
-The following tutorial explains how to use the new data correction feature of the annotation tool.
+The following tutorial explains how to use the new correction factor feature of the annotation tool.
 
-### Accessing the Data Correction Tool
+### Accessing the Correction Factor Tool
 
 From the dashboard, click on _Annotations_.
 
