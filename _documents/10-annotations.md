@@ -75,7 +75,7 @@ Then follow the instructions in the right sidebar:
 
 In the window, you can enter more detailed information. The current annotation categories are:  
 - Construction near or at site  
-- Data Correction [see Correction Factor]({{ site.url }}{{ site.baseurl }}/_documents/11-data-correction.md)
+- Data Correction (see [Correction Factor](https://psutrec.github.io/documentation/documents/11-data-correction/))
 - Event (e.g. parade, race, festival, etc.)  
 - Maintenance on hardware (battery replacement)  
 - Maintence on hardware (other) 
