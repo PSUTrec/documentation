@@ -41,3 +41,5 @@ documents:
         url: /documents/09-qaqc/
       - title: "Annotations"
         url: /documents/10-annotations/
+      - title: "Adding Correction Factor"
+        url: /document/11-data_correction.md/
