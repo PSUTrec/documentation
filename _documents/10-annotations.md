@@ -73,7 +73,15 @@ Then follow the instructions in the right sidebar:
     <figcaption>Fig. 10. New annotation: step 3</figcaption>
 </figure>
 
-In the window, you can enter more detailed information:
+In the window, you can enter more detailed information. The current annotation categories are:  
+- Construction near or at site  
+- Data Correction [see Correction Factor]({{ site.url }}{{ site.baseurl }}/_documents/11-data-correction.md)
+- Event (e.g. parade, race, festival, etc.)  
+- Maintenance on hardware (battery replacement)  
+- Maintence on hardware (other) 
+- Malfunction  
+- Outside forces affection device (e.g. insects, animals, vegetation interference)  
+- Severe weather  
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/annotation-window.jpg" alt="">
