@@ -33,28 +33,28 @@ Data Correction is currently only enabled for the Rock Creek Trail @ Peirce Mill
 Once you've selected the segment area, do not select a flow detector. Instead, click on the text bubble / plus sign icon in the upper left (Fig. 5).
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig5.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig5.jpg" alt="">
     <figcaption>Fig. 5</figcaption>
 </figure>
 
 In the Add Annotation window, use the Annotation Category dropdown menu to select Data Correction.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig6.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig6.jpg" alt="">
     <figcaption>Fig. 6</figcaption>
 </figure>
 
 Click the arrow to reveal where you can set data correction factors.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig7.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig7.jpg" alt="">
     <figcaption>Fig. 7</figcaption>
 </figure>
 
 Click _Save_ to exit the _Add Annotation_ window. Then select flow detector of interest.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig8.jpg alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/dc_fig8.jpg" alt="">
     <figcaption>Fig. 8</figcaption>
 </figure>
 
