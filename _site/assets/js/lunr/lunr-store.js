@@ -49,8 +49,28 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/documentation/documents/09-qaqc/",
         "teaser":null},{
+        "title": "Annotation",
+        "excerpt":"The following tutorial explains how to annotate your data in BikePed Portal, using our annotation tool. Accessing the Annotation Tool Suppose your organization is the Portland Bureau of Transportation, and you want to make an annotation regarding a sensor on the Tilikum Crossing Bridge: Fig. 1. Click on \"Annotations\" Fig....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/documentation/documents/10-annotations/",
+        "teaser":null},{
+        "title": "Adding a Correction Factor",
+        "excerpt":"The following tutorial explains how to use the new correction factor feature of the annotation tool. Accessing the Correction Factor Tool From the dashboard, click on Annotations. Fig. 1Data Correction is currently only enabled for the Rock Creek Trail @ Peirce Mill segment area. Fig. 2. Select region Fig. 3....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/documentation/documents/11-data-correction/",
+        "teaser":null},{
         "title": "Switch to GitHub Pages",
         "excerpt":"User documentation for BikePed Portal has been switched from a standard GitHub repository to using GitHub Pages using Minimal Mistakes theme. ","categories": [],
         "tags": ["updates&notices"],
         "url": "http://localhost:4000/documentation/update/",
+        "teaser":null},{
+        "title": "National Capital Region Trail Monitoring and Analysis Program",
+        "excerpt":"Fig. 1. Count locations within the National Capital RegionFor the past couple of years we have been working with UNC and VT on the National Capital Region Trail Monitoring and Analysis Program. The program is funded by the National Parks Service and consists of several regional partners within the DC,...","categories": [],
+        "tags": ["notices"],
+        "url": "http://localhost:4000/documentation/NCR-project-post-1/",
+        "teaser":null},{
+        "title": "Region-level dashboard now available",
+        "excerpt":"Now available on the Dashboard page, you can select to view a dashboard on a regional level. The regions are pre-defined based on our project partners. Let us know what you think! ","categories": [],
+        "tags": ["notices"],
+        "url": "http://localhost:4000/documentation/regional-dashboard-ui/",
         "teaser":null}]
