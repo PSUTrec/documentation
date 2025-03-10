@@ -3,17 +3,16 @@ title: "Flow Detectors"
 ---
 The flow detector links the _Detector_ information with _Flow_. The required parameters for _Flow Detectors_ are:
 
-* latitude and longitude of the flow detector location
+* latitude
+* longitude
 
-Latitude and longitude values are in decimal degrees with projection coordinates of WGS84 datum.
-
-If a GPS unit is not available to record the location of a flow detector use [Google Earth]({{ site.url }}{{ base.url }}/documents/08-additional-resources.md) to determine an approximate location. A _Flow Detector_ is unique based on the combination of the _Detector_, the _Flow_, and the location (latitude and longitude). A single location can have multiple _Flow Detectors_ (multiple _Flow Detectors_ can be co-located).
+Latitude and longitude values are in decimal degrees with projection coordinates of WGS84 datum. The lat/lon should be the location of where the count is being recorded, not the location of the detector hardware.  
 
 Additional optional attributes associated with _Flow Detector_ are:
-
-* start date
-* stop date
-* eco channel ID
+  
+* start date - start date of data being recorded at this location
+* stop date - stop date of data being recorded, but typically left blank
+* eco channel ID - this is specifically used for Eco-Counter hardware
 
 ### Example
 

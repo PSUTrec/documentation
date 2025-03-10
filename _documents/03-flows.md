@@ -11,6 +11,8 @@ Additional characteristics of _Flow_ include:
 * off road
 * motor vehicles
 * other
+* personal mobility device
+* scooter  
 
 These types of flows are not mutually exclusive and allow flexibility for choosing multiple flow types when unknown (e.g. infrared counters are unable to distinguish bicyclists, pedestrians, and equestrians on multiuser trails). When applicable, select the appropriate flow types.
 

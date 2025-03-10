@@ -31,8 +31,8 @@ documents:
         url: /documents/06-data/
       - title: "Parameter Definitions"
         url: /documents/07-parameter-definitions/
-      - title: "Additional Resources"
-        url: /documents/08-additional-resources/
+#      - title: "Additional Resources"
+#        url: /documents/08-additional-resources/
 
   - title: Features and Tools
     url: /documentation/documents/
