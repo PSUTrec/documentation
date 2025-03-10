@@ -18,3 +18,19 @@ Functional classes used in BikePed Portal are:
 * General Activity Count
 
 "General Activity Count" specifically defines counts that are taken on plazas, or other land-use features (e.g. National Mall, Boston Commons).  
+  
+## Observed Land Use
+
+Observed land use types available:  
+* Residential
+* Office
+* Retail
+* School
+* University
+* Industrial
+* Argriculture
+* Park
+* Other
+* Water
+* Bridge
+* Transit Center  

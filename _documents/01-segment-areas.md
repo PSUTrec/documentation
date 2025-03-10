@@ -2,18 +2,21 @@
 title: "Segment Area"
 ---
 _Segment Areas_ are uniquely defined (and required) by the following parameters:
-* _Segment Area Name_
-* [_Functional Classification_](https://psutrec.github.io/documentation/documents/07-parameter-definitions/)
-* _State_
+* _Name_ - user defined descriptive name of location
+* _Start time_ - typically the date and time of the first record of data at this location
+* _City_
 * _County_
-
+* _State_
+* [_Functional Classification_](https://psutrec.github.io/documentation/documents/07-parameter-definitions/)  
+* _Route sign number_ - if unknown then 0
+* _Organization_ - organization or agency leading the count effort
+  
 Additional parameters include:
 * speed limit
-* route type
-* paved/un-paved
-* route sign number
-* observed land use
-
+* national highway
+* usbrid - [US Bicycle Route System ID](https://www.adventurecycling.org/routes-and-maps/us-bicycle-route-system/)
+* [observed land use](https://psutrec.github.io/documentation/documents/07-parameter-definitions/)  
+  
 A _Segment Area_ cannot have more than one _Functional Classification_.
 
 A typical _Segment Area_ extends along a road or pathway until a user is able to change their direction of travel, unless the _Segment Area_ is part of an intersection count (see below). A _Segment Area_ is composed of all _Facilities_, _Detectors_, _Flows_, and _Flow Detectors_.
