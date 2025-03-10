@@ -11,14 +11,16 @@ For each unique segment area there can be multiple facility types within a given
 * sidewalk
 * cycle track
 * crosswalk
+* bus lane
+* light rail
 
 Only include _Facility Type_ where traffic counts are observed. For example, if bicycle counts are the only measurement on a typical urban street with a bike lane and sidewalks, and no bicyclists were observed on the sidewalk, then the only facility would be the bike lane. Additional characteristics associated with facilities should be included when applicable (e.g. sharrows or bike route signs on roadways). These additional characteristics are:
 
 * paved
-* side
+* side (north, south, east, west, northwest, southwest, northeast, southeast, median)
 * facility width
-* color
-* color type
+* color (red, blue, green, other, none)
+* color type (throughout, solid at intersections, dashed at intersections, other)
 * buffer (none, concrete barrier, other physical barrier, flexible posts, painted stripe)
 * overpass
 * underpass
