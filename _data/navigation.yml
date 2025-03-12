@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 documents:
-  - title: Metadata & Data
+  - title: Framework
 #    url: /documentation/documents/
     children:
       - title: "Metadata Summary"
@@ -38,6 +38,7 @@ documents:
 
   - title: Features and Tools  
            (Requires Login)
+#    url: /documentation/documents/
     children:
       - title: "QA/QC"
         url: /documents/09-qaqc/
@@ -45,4 +46,13 @@ documents:
         url: /documents/10-annotations/
       - title: "Correction Factor"
         url: /documents/11-data-correction/
+
+  - title: Contributor Documentation
+    children:
+      - title: "Getting Started"
+        url: /documents/12-getting-started/
+      - title: "Metadata Format"
+        url: /documents/13-metadata-format/
+      - title: "Data Format"
+        url: /documents/14-data-format/
 
