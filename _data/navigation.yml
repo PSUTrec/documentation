@@ -36,13 +36,13 @@ documents:
 #      - title: "Additional Resources"
 #        url: /documents/08-additional-resources/
 
-  - title: Features and Tools (Login Required)
-    url: /documentation/documents/
+  - title: Features and Tools (Requires Login)
+    url: /documentation/features-tools/
     children:
       - title: "QA/QC"
-        url: /documents/09-qaqc/
+        url: /documents/01-qaqc/
       - title: "Annotations"
-        url: /documents/10-annotations/
+        url: /documents/02-annotations/
       - title: "Correction Factor"
-        url: /documents/11-data-correction/
+        url: /documents/03-data-correction/
 
