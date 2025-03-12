@@ -13,7 +13,7 @@ main:
 
 documents:
   - title: Metadata & Data
-    url: /documentation/documents/
+#    url: /documentation/documents/
     children:
       - title: "Metadata Summary"
         url: /documents/00-metadata-summary/
@@ -36,13 +36,14 @@ documents:
 #      - title: "Additional Resources"
 #        url: /documents/08-additional-resources/
 
-  - title: Features and Tools (Requires Login)
-    url: /documentation/features-tools/
+  - title: Features and Tools  
+           (Requires Login)
+#    url: /documentation/featurestools/
     children:
       - title: "QA/QC"
-        url: /documents/01-qaqc/
+        url: /featurestools/01-qaqc/
       - title: "Annotations"
-        url: /documents/02-annotations/
+        url: /featurestools/02-annotations/
       - title: "Correction Factor"
-        url: /documents/03-data-correction/
+        url: /featurestools/03-data-correction/
 
