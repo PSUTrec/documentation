@@ -38,12 +38,11 @@ documents:
 
   - title: Features and Tools  
            (Requires Login)
-#    url: /documentation/featurestools/
     children:
       - title: "QA/QC"
-        url: /featurestools/01-qaqc/
+        url: /documents/09-qaqc/
       - title: "Annotations"
-        url: /featurestools/02-annotations/
+        url: /documents/10-annotations/
       - title: "Correction Factor"
-        url: /featurestools/03-data-correction/
+        url: /documents/11-data-correction/
 
