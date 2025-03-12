@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 documents:
-  - title: Metadata
+  - title: Metadata & Data
     url: /documentation/documents/
     children:
       - title: "Metadata Summary"
@@ -31,10 +31,12 @@ documents:
         url: /documents/06-data/
       - title: "Parameter Definitions"
         url: /documents/07-parameter-definitions/
+      - title: "Adding Short Term or Manual Count Data"
+        url: /documents/12-manual-counts/
 #      - title: "Additional Resources"
 #        url: /documents/08-additional-resources/
 
-  - title: Features and Tools
+  - title: Features and Tools (Login Required)
     url: /documentation/documents/
     children:
       - title: "QA/QC"
