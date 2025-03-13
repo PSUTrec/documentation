@@ -2,6 +2,9 @@
 title: "Metadata for Manual Counts"
 ---
 
+## How to fill out the metadata template file
+
+### Step 1: Understanding the metadata
 Metadata is the data about the location of where counts are being observed. The more metadata that is provided, the more context is given about the location. The _metadata\_template.xlsx_ file contains two worksheets described as "Required" and "Optional" (Fig. 1). In BikePed Portal, there is a set number of required attributes and a number of optional attributes that can also be included. 
 
 <figure class="align-left">
@@ -17,16 +20,27 @@ Each column is named by a category and a descriptive attribute. For example, `se
 </figure>
 
 Remember that one row equals one observation. The Framework Summary describes how one location, or _Segment Area_, can define multiple observations based on what facilities are being included, the flow of direction, and travel mode.
-  
-The first row of data provides an example of the type of data and format that is required. Some of attributes have pre-populated options for the type of data or information that is required (Fig. 3),and some attributes have a specific format that must be followed (e.g. any start/end date must be in "yyyy-mm-dd hh:mm:ss-tz"). Table 1 lists the required attributes, type of data (format), and an example.  
+
+### Step 2: Fill out the metadata attributes - one row = one unique description 
+__"Required" attributes__  
+The first few rows of the metadata template file provides an example of the type of data and format that is required and how one location can have many descriptive observations. Some of attributes have pre-populated options for the type of data or information that is required (Fig. 3),and some attributes have a specific format that must be followed (e.g. any start/end date must be in "yyyy-mm-dd hh:mm:ss-tz"). Table 1 lists the required attributes, type of data (format), and an example.  
 
 <figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/meta-fig3.png" alt="">
   <figcaption>Fig. 3. Example of a column where values of a specific attribute are predefined.</figcaption>
 </figure>
 
+__"Optional" attributes__  
 If you are including any of the "Optional" attributes, copy or cut the attribute column from the "Optional" worksheet, and insert the column within the group of columns representing that particular category.  
+
+### Step 3: Provide a unique identifier for each row of metadata observations
+The last column of the "Required" attributes in the template file is the `metaID`. The `metaID` is a user defined unique ID that links the one unique row of metadata to the count data ([that is provided and described in a separate file](https://psutrec.github.io/documentation/documents/14-data-format/) associated with that unique row of metadata.
+
+### Step 4: Save file as CSV
+After the metadata template has been completed, rename the file and save the "Required" worksheet as a CSV formatted file.
   
+|Table 1. List of required attributes, format, and examples|
+|---- |
 | Category & Attribute | Format | Example |
 | --- | --- | --- |
 | `segement_areas.segment_name` | character/text |  Main St. at 12th St. |
