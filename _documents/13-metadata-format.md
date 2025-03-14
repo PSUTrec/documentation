@@ -34,13 +34,13 @@ __"Optional" attributes__
 If you are including any of the "Optional" attributes, copy or cut the attribute column from the "Optional" worksheet, and insert the column within the group of columns representing that particular category.  
 
 ### Step 3: Provide a unique identifier for each row of metadata observations
-The last column of the "Required" attributes in the template file is the `metaID`. The `metaID` is a user defined unique ID that links the one unique row of metadata to the count data ([that is provided and described in a separate file](https://psutrec.github.io/documentation/documents/14-data-format/) associated with that unique row of metadata.
+The last column of the "Required" attributes in the template file is the `meta_id`. The `meta_id` is a user defined unique ID that links the one unique row of metadata to the count data ([that is provided and described in a separate file](https://psutrec.github.io/documentation/documents/14-data-format/) associated with that unique row of metadata.
 
 ### Step 4: Save file as CSV
 After the metadata template has been completed, rename the file and save the "Required" worksheet as a CSV formatted file.
   
 |Table 1. List of required attributes, format, and examples|
-|---- |
+|---- | --- | --- |
 | Category & Attribute | Format | Example |
 | --- | --- | --- |
 | `segement_areas.segment_name` | character/text |  Main St. at 12th St. |
