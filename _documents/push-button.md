@@ -87,4 +87,26 @@ The right sidebar displays all the selectors and filters that will allow you to 
     <figcaption>Fig. 7: Using the selectors and filters using the options provided in the right sidebar to get the weekday PM hourly peak volumes for both all crosswalk users and pedestrian only users.</figcaption>
 </figure>
   
-_Note: You can zoom in and out of the chart by selecting any section within each of the chart panels. A "Reset zoom" option button will pop-up to reset. Again, you can download the chart image or the data behind the chart by selecting the hamburger menu in the upper right corner of the chart panels._
+_Note: You can zoom in and out of the chart by selecting any section within each of the chart panels. A "Reset zoom" option button will pop-up to reset. Again, you can download the chart image or the data behind the chart by selecting the hamburger menu in the upper right corner of the chart panels. You can also click on the legend options at the bottom of each chart panel to turn a specific quantity "on" or "off"._
+  
+### Step 4: Analyze historical data one quantity at a time
+For historical comparisons, select the "One-Quantity Historic Comparison" tab. We allow one quantity comparisons at a time otherwise it becomes visually cluttered. For historical comparisons you can compare by days, weeks, months, or years, and up to three periods. You have the same filters and parameters as provided for the Two-Quantity Chart visualization. 
+  
+_Example_  
+In this example, we want to compare monthly daily total volumes for all crosswalk users. The following parameters were selected for several stations (Fig. 8):
+- Quantity: Total Volume (all crosswalk users)
+- Line Chart
+- I want to compare: Months
+- Start Period 1: 12/2024
+- Start Period 2: 01/2025
+- Start Period 3: 02/2025 (this is selected with a checkbox)
+- Time range: All
+- Days of Week: All
+- Data Resolution: 1 day
+- Phase: All
+- Group: No
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/push-fig8.png" alt="" width="500">
+    <figcaption>Fig. 8: One-quantity historic chart for comparing monthly daily total volume for all crosswalk users. </figcaption>
+</figure>
