@@ -12,8 +12,8 @@ main:
   #   url: /sitemap/
 
 documents:
-  - title: Metadata
-    url: /documentation/documents/
+  - title: Framework
+#    url: /documentation/documents/
     children:
       - title: "Metadata Summary"
         url: /documents/00-metadata-summary/
@@ -31,11 +31,14 @@ documents:
         url: /documents/06-data/
       - title: "Parameter Definitions"
         url: /documents/07-parameter-definitions/
-      - title: "Additional Resources"
-        url: /documents/08-additional-resources/
+      - title: "Adding Short Term or Manual Count Data"
+        url: /documents/12-manual-counts/
+#      - title: "Additional Resources"
+#        url: /documents/08-additional-resources/
 
-  - title: Features and Tools
-    url: /documentation/documents/
+  - title: Features and Tools  
+           (Requires Login)
+#    url: /documentation/documents/
     children:
       - title: "QA/QC"
         url: /documents/09-qaqc/
@@ -44,3 +47,16 @@ documents:
       - title: "Correction Factor"
         url: /documents/11-data-correction/
 
+  - title: Contributors
+    children:
+      - title: "Getting Started"
+        url: /documents/12-getting-started/
+      - title: "Metadata Format"
+        url: /documents/13-metadata-format/
+      - title: "Data Format"
+        url: /documents/14-data-format/
+
+  - title: Data & Visualization
+    children:
+      - title: Push Button Acutations (Beta)
+        url: /documents/push-button/
