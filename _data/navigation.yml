@@ -47,7 +47,7 @@ documents:
       - title: "Correction Factor"
         url: /documents/11-data-correction/
 
-  - title: Contributor Documentation
+  - title: Contributors
     children:
       - title: "Getting Started"
         url: /documents/12-getting-started/
@@ -56,3 +56,7 @@ documents:
       - title: "Data Format"
         url: /documents/14-data-format/
 
+  - title: Data & Visualization
+    children:
+      - title: Push Button Acutations (Beta)
+        url: /documents/push-button/
