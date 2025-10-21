@@ -53,9 +53,16 @@ To further analyze and explore data for a single or multiple stations, click the
     <figcaption>Fig. 6: The circled "+" symbol allows you to add stations to the list of "Analysis Stations" that will allow you to further explore data from each selected location. Once all the stations of interest have been selected, click the "Analyze" button.</figcaption>
 </figure>
 
-Once the "Analyze" button is clicked, a new window will appear in the lower half of your screen. If the new window doesn't appear, click on the "Figure" icon in the lower left hand corner of the screen (Fig. 7). And if at first no data is shown is shown, click the "Reload" button. (And make sure your selected locations are listed under the "Analysis Stations" section.)
+Once the "Analyze" button is clicked, a new window will appear in the lower half of your screen. If the new window doesn't appear, click on the "chart" icon in the lower left hand corner of the screen (Fig. 7). And, if at first no data is shown is shown, click the "Reload" button. (And make sure your selected locations are listed under the "Analysis Stations" section.)
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig7.png" alt="">
-    <figcaption>Fig. 7: The circled "figure" or "chart" icon will allow you to toggle between the available data analysis tools and the map.</figcaption>
+    <figcaption>Fig. 7: The circled "chart" icon will allow you to toggle between the available data analysis tools and the map.</figcaption>
+</figure>
+
+To expand the "Charts & Analysis" window, you can either click on the "zoom in" arrow icon, located next to the "chart" icon, or you can drag the window boarder to your preference. To temporarily hide the right sidebar menu options, click on the "cheeseburger" (Fig. 8).
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig8.png" alt="">
+    <figcaption>Fig. 8: The circled icons highlight the "zoom In" option for the "Charts & Analysis" window, the "Reload" button to load the data being used to generate the data visualizations, and the "cheeseburger" icon to hide and unhide the right sidebar menu.</figcaption>
 </figure>
