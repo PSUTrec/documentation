@@ -42,7 +42,20 @@ As with almost all figures, if you want to zoom into a specific date range on th
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig5.png" alt="">
-    <figcaption>Fig. 4: The figure on the left shows one year's worth of data, and a highlighted section to zoom into. The figure on the right shows how the data appears once you've selected an area to zoom into by clicking and dragging the area of interest. To reset the figure to its original date range, click the "Reset Zoom" button.</figcaption>
+    <figcaption>Fig. 5: The figure on the left shows one year's worth of data, and a highlighted section to zoom into. The figure on the right shows how the data appears once you've selected an area to zoom into by clicking and dragging the area of interest. To reset the figure to its original date range, click the "Reset Zoom" button.</figcaption>
 </figure>
 
 ### Analyzing Data
+To further analyze and explore data for a single or multiple stations, click the "+" symbol that is located next to the colored star bar (Fig. 6). Each time a station of interest is selected by clicking the "+" symbol, it is added under the "Analysis Stations" section of the right sidebar. Once the stations of interest are selected, click "Analyze".
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig6.png" alt="">
+    <figcaption>Fig. 6: The circled "+" symbol allows you to add stations to the list of "Analysis Stations" that will allow you to further explore data from each selected location. Once all the stations of interest have been selected, click the "Analyze" button.</figcaption>
+</figure>
+
+Once the "Analyze" button is clicked, a new window will appear in the lower half of your screen. If the new window doesn't appear, click on the "Figure" icon in the lower left hand corner of the screen (Fig. 7). And if at first no data is shown is shown, click the "Reload" button. (And make sure your selected locations are listed under the "Analysis Stations" section.)
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig7.png" alt="">
+    <figcaption>Fig. 7: The circled "figure" or "chart" icon will allow you to toggle between the available data analysis tools and the map.</figcaption>
+</figure>
