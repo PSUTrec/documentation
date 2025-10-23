@@ -73,7 +73,7 @@ The left sidebar menu on the "Charts & Analysis" tab shows all the available fil
   
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig9.png" alt="">
-    <figcaption>Fig. 9: All the current options for displaying different types of data.</figcaption>
+    <figcaption>Fig. 9: All the current options for displaying different types of data. Each time a filter is changed, remember to click the "Reload" button.</figcaption>
 </figure>
   
 You can also set the timescale comparison to years (default), months, weeks, and days. This allows you to compare historical data for up to three different periods. If you find that it would be beneficial to compare more time periods, please let us know and we'll consider it for the next update.
@@ -105,6 +105,6 @@ The steps to calculate the MADT for bicycles and compare three years worth of da
 In this particular example, we're comparing three years worth of available MADT data on the Broadway Bridge, Hawthorne Bridge, and Tilikum Crossing Bridge in Portland, Oregon (Fig. 10). Missing MADT values indicate not enough data was available for the calculation. Based on these values, it looks like the number of bicycle trips across the Tilikum Crossing Bridge are rebounding to pre-pandemic levels. Travel across Hawthorne Bridge remain lower, and not enough data are available for the Broadway Bridge. 
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig10.png" alt="" style="float:center;width:200px;height:400x;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig10.png" alt="" style="width:700px;height:500x;">
     <figcaption>Fig. 10: Example of comparing bicycle MADT pre- and post-pandemic across the Broadway Bridge, Hawthorne Bridge, and Tilikum Crossing Bridge in Portland, Oregon.</figcaption>
 </figure>
