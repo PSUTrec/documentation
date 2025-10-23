@@ -69,3 +69,19 @@ To expand the "Charts & Analysis" window, you can either click on the "zoom in" 
     <figcaption>Fig. 8: The circled icons highlight the "zoom In" option for the "Charts & Analysis" window, the "Reload" button to load the data being used to generate the data visualizations, and the "cheeseburger" icon to hide and unhide the right sidebar menu.</figcaption>
 </figure>
 
+The left sidebar menu on the "Charts & Analysis" tab shows all the available filters and metrics available (Fig. 9). The default "Quantity" is set to "Daily Total Volume"; other options are MADT, AADT, and weekday and weekend AADT (AAWDT and AAWET, respectively).
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig9.png" alt="" style="float:center;width:200px;height:400x;">
+    <figcaption>Fig. 9: All the current options for displaying different types of data.</figcaption>
+</figure>
+
+You can also set the timescale comparison to years (default), months, weeks, and days. This allows you to compare historical data for up to three different periods. If you find that it would be beneficial to compare more time periods, please let us know and we'll consider it for the next update.
+
+The level of data quality used for calculating the different quantities can also be selected: raw, corrected, validated (default), and validated only. The definitions are provided when you click on the "i" icon:
+
+- Raw Data: Uses raw data as collected from the sensors without any corrections or adjustments.
+- Corrected Data: Uses corrected data (adjusted for known issues or biases) if available. Otherwise, it falls back to raw data.
+- Validated Data: If the data is not reviewed or is reviewed and marked as valid, similar logic to Corrected Data. If the data is reviewed and not marked as valid, the observations are ignored as if there is a data gap.
+- Validated Data Only: If the data is reviewed and marked as valid, similar logic to Corrected Data. Otherwise the observations are ignored as if there is a data gap.  
+
