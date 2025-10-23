@@ -27,7 +27,7 @@ Some location icons include a number. This indicates the number of count laction
 The Station Health filters provides a high level overview of how much data are available at each count station location. Data availability is calculated as the number of observations recorded and received divided by the number of expected records (daily). For example, if a count location expects hourly data the expected number of observations is 24 within a day. If a specific count location only has 18 recorded observations, then the data availabilty would be 75%. The filters available are "Start Date", "End Date", and "Health Scale". The "Health Scale" is adjustable depending on how you define what is "good" (green), "suspicious" (yellow), or "bad" (red). You will be able to set the threshold values for "good", "suspicious", and "bad" using the sliders under the "Station Health" option (Fig. 3). Once you've defined these filters and click update, the map will update accordingly. You will also be able to define the date range of data of interest.
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig3.png" alt="">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig3.png" alt="" style="float:center;width:200px;height:400x;">
     <figcaption>Fig. 3: The "Station Health" filter option is located beneath the "I Want to Explore" option in the right sidebar menu. The filter options available are date range and percent data availability for "good" (green), "suspicious" (yellow), and "bad" (red).</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ To expand the "Charts & Analysis" window, you can either click on the "zoom in" 
     <figcaption>Fig. 8: The circled icons highlight the "zoom In" option for the "Charts & Analysis" window, the "Reload" button to load the data being used to generate the data visualizations, and the "cheeseburger" icon to hide and unhide the right sidebar menu.</figcaption>
 </figure>
 
-The left sidebar menu on the "Charts & Analysis" tab shows all the available filters and metrics available (Fig. 9). The default "Quantity" is set to "Daily Total Volume"; other options are MADT, AADT, and weekday and weekend AADT (AAWDT and AAWET, respectively).
+The left sidebar menu on the "Charts & Analysis" tab shows all the available filters and metrics available (Fig. 9). The default "Quantity" is set to "Daily Total Volume"; other options are MADT, AADT, and weekday and weekend AADT (AAWDT and AAWET, respectively).  
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig9.png" alt="">
