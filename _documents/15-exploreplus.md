@@ -85,3 +85,21 @@ The level of data quality used for calculating the different quantities can also
 - Validated Data: If the data is not reviewed or is reviewed and marked as valid, similar logic to Corrected Data. If the data is reviewed and not marked as valid, the observations are ignored as if there is a data gap.
 - Validated Data Only: If the data is reviewed and marked as valid, similar logic to Corrected Data. Otherwise the observations are ignored as if there is a data gap.  
 
+By default, data are displayed at the flow detector level of direction of travel and mode (e.g. bicycle, pedestrian, scooter). The "Group By" filter provides several levels of aggregation:
+
+- Direction: aggregation based on direction of travel regardless of travel mode.
+- Mode: aggregation based on mode of travel regardless of direction.
+- Station: Aggregation of all travel modes and direction.
+
+Once you've set your filters, click the "Reload" button to refresh the visualizations. Any time any filter is updated, the "Reload" button must be clicked.
+
+### Example: Comparing MADT for bicycles pre- and post-pandemic
+The steps to calculate the MADT for bicycles and compare three years worth of data is as follows:
+- Set the "Quantity" to "MADT".
+- Set the visualization output to "Column Chart".
+- Select the "Start Periods" to 2019, 2021, and 2024. Make sure the boxes are checked for periods 2 and 3.
+- If you're unsure of the data quality, set to "Raw Data". You can always change this option later.
+- Set "Group By" to "Mode (Sum)".
+- Click "Reload".
+
+In this particular example, we're comparing three years worth of available MADT data on the Broadway Bridge, Hawthorne Bridge, and Tilikum Crossing Bridge in Portland, Oregon (Fig. 10). Missing MADT values indicate not enough data was available for the calculation. Based on these values, it looks like the number of bicycle trips across the Tilikum Crossing Bridge are rebounding to pre-pandemic levels. Travel across Hawthorne Bridge remain lower, and not enough data are available for the Broadway Bridge. 
