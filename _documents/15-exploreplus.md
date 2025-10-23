@@ -72,10 +72,10 @@ To expand the "Charts & Analysis" window, you can either click on the "zoom in" 
 The left sidebar menu on the "Charts & Analysis" tab shows all the available filters and metrics available (Fig. 9). The default "Quantity" is set to "Daily Total Volume"; other options are MADT, AADT, and weekday and weekend AADT (AAWDT and AAWET, respectively).
 
 <figure class="align-left">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig9.png" alt="" style="float:center;width:200px;height:400x;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig9.png" alt="">
     <figcaption>Fig. 9: All the current options for displaying different types of data.</figcaption>
 </figure>
-
+  
 You can also set the timescale comparison to years (default), months, weeks, and days. This allows you to compare historical data for up to three different periods. If you find that it would be beneficial to compare more time periods, please let us know and we'll consider it for the next update.
 
 The level of data quality used for calculating the different quantities can also be selected: raw, corrected, validated (default), and validated only. The definitions are provided when you click on the "i" icon:
@@ -103,3 +103,8 @@ The steps to calculate the MADT for bicycles and compare three years worth of da
 - Click "Reload".
 
 In this particular example, we're comparing three years worth of available MADT data on the Broadway Bridge, Hawthorne Bridge, and Tilikum Crossing Bridge in Portland, Oregon (Fig. 10). Missing MADT values indicate not enough data was available for the calculation. Based on these values, it looks like the number of bicycle trips across the Tilikum Crossing Bridge are rebounding to pre-pandemic levels. Travel across Hawthorne Bridge remain lower, and not enough data are available for the Broadway Bridge. 
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/explore-fig10.png" alt="" style="float:center;width:200px;height:400x;">
+    <figcaption>Fig. 10: Example of comparing bicycle MADT pre- and post-pandemic across the Broadway Bridge, Hawthorne Bridge, and Tilikum Crossing Bridge in Portland, Oregon.</figcaption>
+</figure>
