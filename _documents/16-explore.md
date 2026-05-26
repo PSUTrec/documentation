@@ -34,10 +34,19 @@ After selecting a segment area, a new tab will open, "Explore (2)" with the year
     <figcaption>Fig. 3: Note the tab window at the top is set to "Explore (2)". To populate data at other aggregations, click on the figure of the specific year, month, or day.</figcaption>
 </figure>
 
+### Downloading figures and data
 Figure 4 highlights the different icons that are available for each figure to change the chart type, download the figure, and download data. To alter the bar chart to a stacked bar chart, click on the stacked hamburger icon below the bar chart icon. For monthly volumes, there is an option to display the total monthly volume and the average monthly volume. To download data, click on the "download" located below figure graphing options. The data that is downloaded for each figure is the data behind the figure, this means that if click the "download" button on the "Total volume per year" figure, only the yearly data will be provided. If you want to download the figure, click on the other hamburger icon next to the graphing options.
 
 <figure class="align-left">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/exp-fig4.png" alt="">
     <figcaption>Fig. 4: Each figure panel has four icons that will allow you to download the figure image, switch between a regular or stacked bar chart, and download the data supporting the figure. For monthly aggregated data, there is an additional option to switch between total or average volumes. The total volume per year figure shows the stacked bar chart option. </figcaption>
+</figure>
+
+### Zoom in and select date range for display and showing different data types
+There are additional options to be able to zoom in or turn off/on different data to display within each figure panel (Fig. 5) To zoom in to a specific date range, you can click and drag on the figure to highlight the date range of interest. For daily volume, there is an additional slider below the figure create a window of time. To turn off/on different data that are being displayed, click on data type within the legend of each figure.
+
+<figure class="align-left">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/exp-fig5.png" alt="">
+    <figcaption>Fig. 5: For each figure there is a "Reset zoom" button to reset the figure to it's original date range. The monthly volume figure shows the data types that were turned off are greyed out after clicking on the name of each data type. To zoom in and shift a window of time for daily data, use the slider below the daily volume figure. </figcaption>
 </figure>
 
