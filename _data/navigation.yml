@@ -60,5 +60,7 @@ documents:
 
   - title: Data & Visualization
     children:
+      - title: Explore
+        url: /documents/16-Explore/
       - title: Push Button Acutations (Beta)
         url: /documents/push-button/
